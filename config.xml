@@ -3,7 +3,7 @@
 xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>04-Stack-Navigator</name>
     <description>
-        Onsen page demo
+        Onsen navigator demo
     </description>
     <author email="sjsyphonetography@gmail.com" href="https://hcu.edu.my/">
         Han Chiang Course
